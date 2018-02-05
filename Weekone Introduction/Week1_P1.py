@@ -6,7 +6,7 @@
  
 s='azcbobobegghakl'
 mynum=0
-for c in s.lower():
+for c in s.lower():  # s.lower() turn all letter into lower cases, don't forget the ()
     if c=="a" or c=="e" or c=="i" or c=="o" or c=="u":
         mynum+=1
 print("Number of vowels:",mynum)
