@@ -1,1 +1,6 @@
-
+Anything computable in one language can be computable in other language
+Scable objects: int, float, bool(True, False), None,  can use type() to determine the type of objects
+Convert objects:　float(3)  out:3.0 , int(3.9)  out:3
+i//j: int division, return to the 
+i%j: return to the remainder
+i**j: return to i to the power of j
