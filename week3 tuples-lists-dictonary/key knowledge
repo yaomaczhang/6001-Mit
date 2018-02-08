@@ -1,0 +1,14 @@
+x,y=y,x  exchange the values of x,y
+L.append()   add somehing to the end of the list, if you add a list, it will be like [1,2,3,[4,5]]
+L.extend()   extend the list, it will be like [1,2,3,4,5]
+del(L(n))  delete the nth element
+L.pop() remove the end of the element
+L.remove()  remove the element that first occurance
+can convert string to list using list(s)
+s.split()  split a string on a character parameter, returns a list
+''.join(L)   list to string,  '_'.join(L)
+sorted(L)   L doesn't change
+L.sort()  L change
+L.reverse() L change
+map(abs,[1,-2,-3,4])  is not acutal a list, act like range
+Dictonary   grades.keys()  grades.values()
